@@ -1,2 +1,2 @@
 # terraform-ansible-jenkins
-Create vpc, Install  jenkins in private subnet server, point server to ALB
+Create vpc, Install jenkins in private subnet server, point server to ALB
